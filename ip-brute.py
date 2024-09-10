@@ -17,7 +17,7 @@ try:
 	print("  #  #             #     # #####  #    #   #   #         ")
 	print("  #  #             #     # #   #  #    #   #   #         ")
 	print(bcolors.OKCYAN + " ### #             ######  #    #  ####    #   ######" + bcolors.ENDC)
-	print(bcolors.UNDERLINE + "By " + bcolors.OKGREEN + "CCMD" + bcolors.ENDC + bcolors.ENDC + "\n")
+	print(bcolors.UNDERLINE + "By " + bcolors.OKGREEN + "H.Palmer" + bcolors.ENDC + bcolors.ENDC + "\n")
 	try:
 	    import psutil
 	except ImportError:
